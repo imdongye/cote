@@ -9,18 +9,3 @@
 * 백트래킹
 * 행렬회전
 * 시뮬레이션
-
-
-#include <iostream>
-using namespace std;
-
-int main(int argc, char** argv)
-{
-    freopen("../../input.txt", "r", stdin);
-    // freopen("../../output.txt", "w", stdout);
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    and or
-    template <<> >
-    return 0;
-}
