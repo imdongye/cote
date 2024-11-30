@@ -4,8 +4,14 @@ set(CMAKE_GENERATOR_PLATFORM x64)
 project(cote VERSION 0.1.0 LANGUAGES CXX)
 
 
-# if you want to build only one problem
-set(only_one fs_boj_1926)
+
+
+
+### if you want to build only one problem ###
+set(only_one dp-boj-9095)
+
+
+
 
 
 if(only_one)
