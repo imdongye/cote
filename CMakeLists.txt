@@ -8,7 +8,7 @@ project(cote VERSION 0.1.0 LANGUAGES CXX)
 
 
 ### if you want to build only one problem ###
-set(only_one dp-boj-9095)
+set(only_one di_boj_11779)
 
 
 
