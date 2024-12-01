@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5.0)
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_GENERATOR_PLATFORM x64)
 project(cote VERSION 0.1.0 LANGUAGES CXX)
 
@@ -8,7 +8,7 @@ project(cote VERSION 0.1.0 LANGUAGES CXX)
 
 
 ### if you want to build only one problem ###
-set(only_one di_boj_11779)
+set(only_one ms_boj_1197)
 
 
 
